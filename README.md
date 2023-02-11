@@ -1,5 +1,5 @@
 
-# CPNT-262-ASSIGNMENT 1 - BEFORE AND AFTER
+# Cpnt-262-Assignment 1 - Before and After
 ## 🔗 Links
 Git Hub Pages: https://cordellec.github.io/cpnt262-a1/
 
